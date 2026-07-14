@@ -1,0 +1,16 @@
+
+  Obs       MAKE           MODEL   TYPE  ORIGIN  DRIVETRAIN   MSRP  INVOICE  ENGINESIZE  CYLINDERS  HORSEPOWER  MPG_CITY  MPG_HIGHWAY  WEIGHT  WHEELBASE  LENGTH
+-----  ---------  --------------  -----  ------  ----------  -----  -------  ----------  ---------  ----------  --------  -----------  ------  ---------  ------
+    1  Acura      MDX             SUV    Asia    All         36945    33337         3.5          6         265        17           23    4451        106     189
+    2  Acura      RSX Type S 2dr  Sedan  Asia    Front       23820    21761           2          4         200        24           31    2778        101     172
+    3  Acura      TSX 4dr         Sedan  Asia    Front       26990    24647         2.4          4         200        22           29    3230        105     183
+    4  Acura      TL 4dr          Sedan  Asia    Front       33195    30299         3.2          6         270        20           28    3575        108     186
+    5  BMW        325Ci 2dr       Sedan  Europe  Rear        30795    28245         2.5          6         184        20           29    3197        107     176
+    6  BMW        X5 4.4i         SUV    Europe  All         52195    48690         4.4          8         325        16           22    4824        111     184
+    7  Chevrolet  Cavalier 4dr    Sedan  USA     Front       14610    13697         2.2          4         140        26           37    2676        104     180
+    8  Ford       Focus LX 4dr    Sedan  USA     Front       13005    11966           2          4         130        27           36    2612        103     168
+    9  Honda      Accord LX 4dr   Sedan  Asia    Front       20140    18361         2.4          4         160        26           34    3064        105     186
+   10  Honda      Civic DX 4dr    Sedan  Asia    Front       13760    12741         1.7          4         115        32           38    2432        103     174
+   11  Toyota     Camry LE 4dr    Sedan  Asia    Front       19560    17558         2.4          4         157        24           33    3086        107     189
+   12  Toyota     Corolla CE 4dr  Sedan  Asia    Front       14085    12787         1.8          4         130        32           40    2502        102     178
+
