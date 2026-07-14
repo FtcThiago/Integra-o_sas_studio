@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_proc_print_cars",
+  "source_file": "Script_sas_teste_github.sas",
+  "source_blob_sha": "47d546021c69070b0ca027e69216a4541ab4fc8d",
+  "source_commit": "ba4a9c94590072d10ecd57391c01cdc7bfaa88c8",
+  "notes": "PROC PRINT on sashelp.cars (built-in dataset, no external data). Byte-identical copy of the author's script; autoexec adds only options obs=100. Runs unmodified."
+}
